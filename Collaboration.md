@@ -1,0 +1,13 @@
+Discussion about Collaboration
+
+1. Will we split into subteams?
+.....
+
+2. In my subteams, will we pair-program?
+....
+
+3. Meet physically or virtually?
+....
+
+4. What is our branch structure? One per person? One per subteam?
+...
