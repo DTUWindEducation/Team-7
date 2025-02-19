@@ -1,13 +1,10 @@
-Discussion about Collaboration
 
-1. Will we split into subteams?
-.....
+Collaboration discussion:
+Discuss: Will you split into subteams? In your subteams, will you pair-program? Meet physically or virtually?
 
-2. In my subteams, will we pair-program?
-....
+We will split the workload equally and based on each other's best capabilities with coding.There will be times where we will pair-code and the meetings will be hybrid, sometimes physical and other times virtually if someone's not available 
 
-3. Meet physically or virtually?
-....
+Discuss: What is your branch structure? One per person? One per subteam?
 
-4. What is our branch structure? One per person? One per subteam?
-...
+We are only 3 people, so each branch is considered one subteam as well but we are keeping it flexible cause we are still in the beginning.
+
